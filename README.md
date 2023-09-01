@@ -1,5 +1,5 @@
-# ICMPPinger
-PingPong it is  Icmp protocol RFC implimentation  in Golang
+# PingPong
+PingPong it is  ICMP protocol RFC792 implimentation  in Golang
 # Usage
 go run pingpong/main.go IPADDr Range(int)
 # Input
